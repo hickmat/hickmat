@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hickmat i have just finished my studies as electrical engineer
+- 👋 Hi, I’m @hickmat i have finished my studies as electrical engineer
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning and preparing for job interviews as electrical engineer 
 - 💞️ I’m looking to collaborate on ...
